@@ -1,6 +1,8 @@
 # Kash Hussain – Cloud Engineering Portfolio
 
-Currently studying AWS Cloud and building hands-on cloud architecture projects.
+Cloud Engineering | AWS | Building hands-on cloud architecture projects
+Transitioning from 10+ years in business ownership into Cloud & AI
+Focused on practical deployments, networking fundamentals, and scalable design
 
 ## Projects
 - AWS Single-Tier EC2 Web Server
