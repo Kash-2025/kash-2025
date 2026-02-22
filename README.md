@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kash Hussain – Cloud Engineering Portfolio
 
-<!--
-**Kash-2025/kash-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studying AWS Cloud and building hands-on cloud architecture projects.
 
-Here are some ideas to get you started:
+## Projects
+- AWS Single-Tier EC2 Web Server
+- (Upcoming) Serverless Website (S3 + CloudFront)
+- (Upcoming) Multi-Tier Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- AWS Fundamentals
+- VPC & Networking
+- EC2 & Apache Deployment
+- IAM & Security Groups
+- Troubleshooting & Monitoring
